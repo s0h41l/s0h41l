@@ -43,8 +43,8 @@
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-D24939?style=flat&logo=ubuntu&logoColor=white)
-![Centos](https://img.shields.io/badge/Centos%20OS-D24939?style=flat&logo=centos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Centos](https://img.shields.io/badge/Centos%20OS-932279?style=flat&logo=centos&logoColor=white)
 
 
 ## 🏢 Work Experience
