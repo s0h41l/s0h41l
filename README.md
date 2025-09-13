@@ -4,9 +4,9 @@
 [![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sohailkhan.sk@hotmail.com)
 ---
 
-## 💻 Tech Stack
+## ⚔ Tech Stack
 
-### ⚙️ Backend
+### 🗿 Backend
 
 **Proficient with:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -41,8 +41,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 
-### 🎨 Frontend
-
+### 🖼 Frontend
 **Proficient with:**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
