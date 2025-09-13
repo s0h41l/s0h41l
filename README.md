@@ -3,9 +3,9 @@
 
 ---
 
-## 💻 Tech Stack
+## ⚔ Tech Stack
 
-### 🚀 Backend
+### 🗿 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
@@ -21,7 +21,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
-### 🎨 Frontend
+### 🖼 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -43,8 +43,9 @@
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-D24939?style=flat&logo=ubuntu&logoColor=white)
+![Centos](https://img.shields.io/badge/Centos%20OS-D24939?style=flat&logo=centos&logoColor=white)
 
----
 
 ## 🏢 Work Experience
 
@@ -72,10 +73,6 @@
   - **Upwork (Top Rated)** *(Jan 2021 – Dec 2021)* – Built projects using **Node.js, Express, PHP, Laravel, React.js, Python**  
   - **Fiverr (Level 2)** *(Aug 2018 – Apr 2021)* – Delivered full-stack projects using **Node.js, Nest.js, PHP, ASP.NET MVC, C++, SQL Server, MongoDB**  
 
----
-
 ## 🎓 Education
-**MS Computer Science** – UET, Lahore *(2025)*
-**BS Computer Science** – UET, Lahore *(2020)*
-
----
+- **MS Computer Science** – UET, Lahore *(2025)*
+- **BS Computer Science** – UET, Lahore *(2020)*
