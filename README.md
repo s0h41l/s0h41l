@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sohail Khan
 
 🚀 Full-Stack Engineer
-🌍 Remote | [Portfolio](https://s0h41l.github.io) | [LinkedIn](https://www.linkedin.com/in/s0h41l) | [GitHub](https://github.com/s0h41l)
+🌍 Remote [LinkedIn](https://www.linkedin.com/in/s0h41l) | [GitHub](https://github.com/s0h41l)
 
 ---
 
@@ -21,6 +21,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -43,7 +44,6 @@
 ![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=flat&logo=newrelic&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 ---
@@ -77,13 +77,7 @@
 ---
 
 ## 🎓 Education
+**MS Computer Science** – UET, Lahore *(2025)*
 **BS Computer Science** – UET, Lahore *(2020)*
-
----
-
-## 📊 GitHub Stats
-
-![Sohail's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0h41l&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0h41l&layout=compact&theme=tokyonight)
 
 ---
