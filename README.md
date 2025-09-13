@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Sohail Khan
-
 🚀 Full-Stack Engineer
 🌍 Remote [LinkedIn](https://www.linkedin.com/in/s0h41l) | [GitHub](https://github.com/s0h41l)
 
