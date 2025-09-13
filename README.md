@@ -101,3 +101,6 @@
 
 - **MS Computer Science** – UET, Lahore *(2025)*  
 - **BS Computer Science** – UET, Lahore *(2020)*  
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
