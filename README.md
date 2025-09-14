@@ -103,5 +103,5 @@
 - **BS Computer Science** – UET, Lahore *(2020)*  
 
 ## 🏢 Commit Map
-![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
