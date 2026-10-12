@@ -74,7 +74,7 @@
 
 ## 🏢 Experience
 
-- **Full-Stack Engineer** @ **ICON** *(Aug 2023 – Present)*  
+- **Software Engineer** @ **ICON** *(Aug 2023 – Present)*  
   Built core features using **Node, PHP, React, Next.js, AngularJS, PostgreSQL, Redis, RabbitMQ, AWS, OpenAI**
 
 - **Founding Engineer & Tech Lead** @ **BCRCOMPLY** *(Apr 2022 – Dec 2023)*  
